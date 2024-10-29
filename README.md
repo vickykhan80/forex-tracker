@@ -16,7 +16,7 @@ _pkg install python_
 
 _pip install requests_
 
-_git clone https://github.com/yourusername/forex-tracker.git_
+_git clone https://github.com/vickykhan80/forex-tracker.git_
 
 _cd forex-tracker_
 
